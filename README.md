@@ -127,4 +127,12 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/prajwal1-k/leetcode/tree/master/0007-reverse-integer) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prajwal1-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prajwal1-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
