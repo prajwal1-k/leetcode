@@ -8,7 +8,7 @@ This repo is a personal collection of Data Structures and Algorithms (DSA) probl
 
 Each folder contains:
 - The problem statement (optional)
-- My solution (`.py`, `.cpp`, `.java`, etc.)
+- My solution (`.py`, `.cpp`, `.java`, .c, etc.)
 - Time and space complexity analysis
 - Comments explaining the logic
 
