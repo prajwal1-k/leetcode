@@ -120,3 +120,11 @@ This is a personal repository, but if you have suggestions or spot improvements,
 
 Happy coding! 😊  
 Feel free to ⭐ the repo if you find it helpful.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/prajwal1-k/leetcode/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
