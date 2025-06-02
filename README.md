@@ -53,6 +53,58 @@ You can navigate problems by tags such as:
 | Others             | 15        | 100+  |
 
 > _Note: I'll update the table above regularly as I solve more problems._
+Each folder contains:
+- The problem statement (optional)
+- My solution (`.py`, `.cpp`, `.java`, etc.)
+- Time and space complexity analysis
+- Comments explaining the logic
+
+## 🛠️ Languages Used
+
+- Python 🐍
+- C++ 💻
+- Java ☕
+
+## 📌 Topics Covered
+
+- Arrays & Strings
+- Linked Lists
+- Trees & Graphs
+- Stacks & Queues
+- Recursion & Backtracking
+- Dynamic Programming
+- Greedy Algorithms
+- Heap / Priority Queue
+- Bit Manipulation
+- Sliding Window
+- Two Pointers
+- and more...
+
+## 🔖 Problem Tags
+
+You can navigate problems by tags such as:
+- `Easy`, `Medium`, `Hard`
+- `Top 100 Liked Questions`
+- `Interview Questions`
+- `Company-wise Tags`
+
+
+
+## 🧠 Why This Repo?
+
+- 📚 Improve problem-solving skills
+- 📝 Prepare for coding interviews
+- 🌐 Share learning journey with the community
+
+## 📬 Contributions
+
+This is a personal repository, but if you have suggestions or spot improvements, feel free to open an issue or a pull request!
+
+---
+
+Happy coding! 😊  
+Feel free to ⭐ the repo if you find it helpful.
+
 
 ## 🧠 Why This Repo?
 
