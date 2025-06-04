@@ -8,7 +8,7 @@ This repo is a personal collection of Data Structures and Algorithms (DSA) probl
 
 Each folder contains:
 - The problem statement (optional)
-- My solution (`.py`, `.cpp`, `.java`, .c, etc.)
+- My solution (`.py`, `.cpp`, `.java`, `.c`, etc.)
 - Time and space complexity analysis
 - Comments explaining the logic
 
@@ -40,20 +40,6 @@ You can navigate problems by tags such as:
 - `Top 100 Liked Questions`
 - `Interview Questions`
 - `Company-wise Tags`
-
-## ✅ Progress Tracker
-
-| Topic              | Completed | Total |
-|-------------------|-----------|-------|
-| Arrays             | 10        | 50    |
-| Linked List        | 5         | 30    |
-| Trees              | 7         | 40    |
-| Graphs             | 3         | 35    |
-| Dynamic Programming| 8         | 45    |
-| Others             | 15        | 100+  |
-
-> _Note: I'll update the table above regularly as I solve more problems._
-Each folder contains:
 - The problem statement (optional)
 - My solution (`.py`, `.cpp`, `.java`, etc.)
 - Time and space complexity analysis
