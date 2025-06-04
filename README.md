@@ -113,6 +113,7 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/prajwal1-k/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/prajwal1-k/leetcode/tree/master/0009-palindrome-number) |
 ## Linked List
 |  |
 | ------- |
