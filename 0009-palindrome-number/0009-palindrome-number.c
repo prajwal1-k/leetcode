@@ -7,5 +7,5 @@ bool isPalindrome(int x) {
         reverse = reverse * 10 + x % 10;
         x/=10;
     }
-    return x == reverse || x == reverse/10;  // x == reverse is for even & x == reverse/10 is for odd digit
+    return x == reverse || x == reverse/10;  // x == reverse is for even digit & x == reverse/10 is for odd digit
 }
