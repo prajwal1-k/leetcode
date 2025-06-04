@@ -117,6 +117,7 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajwal1-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/prajwal1-k/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +130,8 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/prajwal1-k/leetcode/tree/master/0071-simplify-path) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prajwal1-k/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
