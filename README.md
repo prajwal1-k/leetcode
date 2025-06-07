@@ -127,6 +127,7 @@ Feel free to ⭐ the repo if you find it helpful.
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prajwal1-k/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/prajwal1-k/leetcode/tree/master/0071-simplify-path) |
 ## Stack
 |  |
@@ -137,4 +138,12 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prajwal1-k/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/prajwal1-k/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prajwal1-k/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prajwal1-k/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
