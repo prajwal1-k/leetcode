@@ -146,4 +146,12 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prajwal1-k/leetcode/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
