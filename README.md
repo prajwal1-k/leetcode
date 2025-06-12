@@ -123,6 +123,7 @@ Feel free to ⭐ the repo if you find it helpful.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajwal1-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
@@ -149,9 +150,14 @@ Feel free to ⭐ the repo if you find it helpful.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
