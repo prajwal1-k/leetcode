@@ -126,6 +126,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajwal1-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,5 +163,6 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
