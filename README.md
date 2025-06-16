@@ -136,6 +136,7 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/prajwal1-k/leetcode/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +166,16 @@ Feel free to ⭐ the repo if you find it helpful.
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
