@@ -157,6 +157,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prajwal1-k/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/prajwal1-k/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/prajwal1-k/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Tree
 |  |
 | ------- |
@@ -179,4 +181,8 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/prajwal1-k/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
