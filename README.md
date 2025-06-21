@@ -114,6 +114,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [0007-reverse-integer](https://github.com/prajwal1-k/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prajwal1-k/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/prajwal1-k/leetcode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/prajwal1-k/leetcode/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
