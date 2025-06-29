@@ -122,12 +122,14 @@ Feel free to ⭐ the repo if you find it helpful.
 | [0021-merge-two-sorted-lists](https://github.com/prajwal1-k/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/prajwal1-k/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajwal1-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prajwal1-k/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prajwal1-k/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Tree
@@ -190,4 +193,12 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prajwal1-k/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prajwal1-k/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
