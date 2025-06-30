@@ -128,6 +128,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajwal1-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/prajwal1-k/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
 ## String
@@ -158,6 +159,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/prajwal1-k/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prajwal1-k/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prajwal1-k/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -171,6 +173,7 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/prajwal1-k/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/prajwal1-k/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
