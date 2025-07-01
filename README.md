@@ -136,6 +136,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [0022-generate-parentheses](https://github.com/prajwal1-k/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/prajwal1-k/leetcode/tree/master/0071-simplify-path) |
+| [3617-find-the-original-typed-string-i](https://github.com/prajwal1-k/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
