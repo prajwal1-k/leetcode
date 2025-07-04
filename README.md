@@ -143,6 +143,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | ------- |
 | [0071-simplify-path](https://github.com/prajwal1-k/leetcode/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -186,14 +187,17 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prajwal1-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Greedy
 |  |
 | ------- |
