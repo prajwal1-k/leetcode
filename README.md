@@ -165,6 +165,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | [0033-search-in-rotated-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/prajwal1-k/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prajwal1-k/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prajwal1-k/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prajwal1-k/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -181,6 +182,7 @@ Feel free to ⭐ the repo if you find it helpful.
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prajwal1-k/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prajwal1-k/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Tree
@@ -207,6 +209,7 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -215,4 +218,12 @@ Feel free to ⭐ the repo if you find it helpful.
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/prajwal1-k/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
