@@ -50,3 +50,11 @@ If you’d like to connect, feel free to reach out via:
 
 *Feel free to open an issue or pull request if you have suggestions or questions!*
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+<!---LeetCode Topics End-->
