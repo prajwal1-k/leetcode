@@ -56,6 +56,7 @@ If you’d like to connect, feel free to reach out via:
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Linked List
 |  |
@@ -65,4 +66,8 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
