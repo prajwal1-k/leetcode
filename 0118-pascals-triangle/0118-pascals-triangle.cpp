@@ -1,3 +1,4 @@
+// code is done using combinatorial formula
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
