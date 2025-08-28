@@ -57,6 +57,7 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Linked List
@@ -75,4 +76,8 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
