@@ -97,4 +97,8 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prajwal1-k/leetcode/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/prajwal1-k/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
