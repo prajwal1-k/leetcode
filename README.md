@@ -62,6 +62,7 @@ If you’d like to connect, feel free to reach out via:
 | [0057-insert-interval](https://github.com/prajwal1-k/leetcode/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/prajwal1-k/leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Linked List
 |  |
@@ -72,6 +73,7 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
+| [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +104,9 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/prajwal1-k/leetcode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
