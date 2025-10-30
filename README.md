@@ -64,6 +64,7 @@ If you’d like to connect, feel free to reach out via:
 | [0136-single-number](https://github.com/prajwal1-k/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Linked List
 |  |
@@ -80,6 +81,7 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +97,7 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/prajwal1-k/leetcode/tree/master/0143-reorder-list) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
 |  |
 | ------- |
@@ -113,6 +116,7 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,4 +129,8 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prajwal1-k/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
