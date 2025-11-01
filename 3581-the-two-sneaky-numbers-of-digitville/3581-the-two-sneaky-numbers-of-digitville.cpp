@@ -7,7 +7,9 @@ public:
         // This problem can be solved using the frequency map 
 
        // freqeuncy of an array to count the occ of each number
-        int freq[100] = {0};
+       // Here I have taken the freq value from 0-99 only
+       // If nums contains values ≥100 or negative values, you'll read/write out of bounds → undefined behavior...
+       int freq[100] = {0};  
 
         for(int i: nums){
             freq[i]++;
