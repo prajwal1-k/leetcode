@@ -66,6 +66,7 @@ If you’d like to connect, feel free to reach out via:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/prajwal1-k/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prajwal1-k/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -81,6 +82,7 @@ If you’d like to connect, feel free to reach out via:
 | [0147-insertion-sort-list](https://github.com/prajwal1-k/leetcode/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@ If you’d like to connect, feel free to reach out via:
 ## Hash Table
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prajwal1-k/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
@@ -155,4 +158,8 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/prajwal1-k/leetcode/tree/master/2625-increment-submatrices-by-one) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
