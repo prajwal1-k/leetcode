@@ -60,6 +60,7 @@ If you’d like to connect, feel free to reach out via:
 | [0027-remove-element](https://github.com/prajwal1-k/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0057-insert-interval](https://github.com/prajwal1-k/leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/prajwal1-k/leetcode/tree/master/0136-single-number) |
@@ -119,6 +120,7 @@ If you’d like to connect, feel free to reach out via:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prajwal1-k/leetcode/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prajwal1-k/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prajwal1-k/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -171,4 +173,8 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
