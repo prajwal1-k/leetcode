@@ -141,6 +141,7 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/prajwal1-k/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +178,12 @@ If you’d like to connect, feel free to reach out via:
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/prajwal1-k/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/prajwal1-k/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
