@@ -131,6 +131,7 @@ If you’d like to connect, feel free to reach out via:
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/prajwal1-k/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prajwal1-k/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prajwal1-k/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
