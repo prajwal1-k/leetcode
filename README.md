@@ -83,6 +83,7 @@ If you’d like to connect, feel free to reach out via:
 | [3546-equal-sum-grid-partition-i](https://github.com/prajwal1-k/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prajwal1-k/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3689-maximum-total-subarray-value-i](https://github.com/prajwal1-k/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,12 +152,14 @@ If you’d like to connect, feel free to reach out via:
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3689-maximum-total-subarray-value-i](https://github.com/prajwal1-k/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/prajwal1-k/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +218,8 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/prajwal1-k/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
