@@ -83,6 +83,7 @@ If you’d like to connect, feel free to reach out via:
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/prajwal1-k/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prajwal1-k/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/prajwal1-k/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Linked List
@@ -108,6 +109,7 @@ If you’d like to connect, feel free to reach out via:
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prajwal1-k/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ If you’d like to connect, feel free to reach out via:
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +163,7 @@ If you’d like to connect, feel free to reach out via:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/prajwal1-k/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
@@ -213,11 +217,13 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/prajwal1-k/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/prajwal1-k/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -231,4 +237,8 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
