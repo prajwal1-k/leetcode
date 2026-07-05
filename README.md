@@ -70,6 +70,7 @@ If you’d like to connect, feel free to reach out via:
 | [0717-1-bit-and-2-bit-characters](https://github.com/prajwal1-k/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/prajwal1-k/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prajwal1-k/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1301-number-of-paths-with-max-score](https://github.com/prajwal1-k/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prajwal1-k/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -106,6 +107,7 @@ If you’d like to connect, feel free to reach out via:
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwal1-k/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/prajwal1-k/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prajwal1-k/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -170,6 +172,7 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/prajwal1-k/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prajwal1-k/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2625-increment-submatrices-by-one](https://github.com/prajwal1-k/leetcode/tree/master/2625-increment-submatrices-by-one) |
