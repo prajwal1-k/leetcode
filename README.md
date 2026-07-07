@@ -59,6 +59,7 @@ If you’d like to connect, feel free to reach out via:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prajwal1-k/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/prajwal1-k/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0057-insert-interval](https://github.com/prajwal1-k/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
@@ -217,6 +218,7 @@ If you’d like to connect, feel free to reach out via:
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/prajwal1-k/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prajwal1-k/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Graph Theory
