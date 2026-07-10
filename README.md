@@ -85,6 +85,7 @@ If you’d like to connect, feel free to reach out via:
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prajwal1-k/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/prajwal1-k/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prajwal1-k/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -106,6 +107,7 @@ If you’d like to connect, feel free to reach out via:
 | [1288-remove-covered-intervals](https://github.com/prajwal1-k/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ If you’d like to connect, feel free to reach out via:
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prajwal1-k/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -124,12 +127,14 @@ If you’d like to connect, feel free to reach out via:
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/prajwal1-k/leetcode/tree/master/0143-reorder-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prajwal1-k/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -146,6 +151,7 @@ If you’d like to connect, feel free to reach out via:
 | [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/prajwal1-k/leetcode/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prajwal1-k/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prajwal1-k/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 | Problem Name | Difficulty |
@@ -163,6 +169,7 @@ If you’d like to connect, feel free to reach out via:
 | [0759-set-intersection-size-at-least-two](https://github.com/prajwal1-k/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/prajwal1-k/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Heap (Priority Queue)
@@ -233,6 +240,7 @@ If you’d like to connect, feel free to reach out via:
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwal1-k/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/prajwal1-k/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
