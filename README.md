@@ -252,6 +252,7 @@ If you’d like to connect, feel free to reach out via:
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/prajwal1-k/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/prajwal1-k/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
