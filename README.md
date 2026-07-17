@@ -60,6 +60,7 @@ If you’d like to connect, feel free to reach out via:
 | [0027-remove-element](https://github.com/prajwal1-k/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/prajwal1-k/leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0055-jump-game](https://github.com/prajwal1-k/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/prajwal1-k/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/prajwal1-k/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
@@ -115,6 +116,7 @@ If you’d like to connect, feel free to reach out via:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/prajwal1-k/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwal1-k/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/prajwal1-k/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -171,6 +173,7 @@ If you’d like to connect, feel free to reach out via:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/prajwal1-k/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwal1-k/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/prajwal1-k/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
