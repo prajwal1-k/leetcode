@@ -84,6 +84,7 @@ If you’d like to connect, feel free to reach out via:
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prajwal1-k/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prajwal1-k/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prajwal1-k/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -138,6 +139,7 @@ If you’d like to connect, feel free to reach out via:
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -202,6 +204,7 @@ If you’d like to connect, feel free to reach out via:
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prajwal1-k/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prajwal1-k/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prajwal1-k/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prajwal1-k/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -217,12 +220,14 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prajwal1-k/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prajwal1-k/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prajwal1-k/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prajwal1-k/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prajwal1-k/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -232,6 +237,7 @@ If you’d like to connect, feel free to reach out via:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2625-increment-submatrices-by-one](https://github.com/prajwal1-k/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prajwal1-k/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/prajwal1-k/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajwal1-k/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Simulation
@@ -288,4 +294,12 @@ If you’d like to connect, feel free to reach out via:
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwal1-k/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
