@@ -114,6 +114,7 @@ If you’d like to connect, feel free to reach out via:
 | [1288-remove-covered-intervals](https://github.com/prajwal1-k/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prajwal1-k/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -174,6 +175,7 @@ If you’d like to connect, feel free to reach out via:
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prajwal1-k/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prajwal1-k/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prajwal1-k/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajwal1-k/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -186,6 +188,7 @@ If you’d like to connect, feel free to reach out via:
 | [0759-set-intersection-size-at-least-two](https://github.com/prajwal1-k/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/prajwal1-k/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -234,6 +237,7 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prajwal1-k/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -320,6 +324,7 @@ If you’d like to connect, feel free to reach out via:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prajwal1-k/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
