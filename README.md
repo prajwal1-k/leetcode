@@ -72,6 +72,7 @@ If you’d like to connect, feel free to reach out via:
 | [0486-predict-the-winner](https://github.com/prajwal1-k/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/prajwal1-k/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/prajwal1-k/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0877-stone-game](https://github.com/prajwal1-k/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/prajwal1-k/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1288-remove-covered-intervals](https://github.com/prajwal1-k/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/prajwal1-k/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -125,6 +126,7 @@ If you’d like to connect, feel free to reach out via:
 | [0118-pascals-triangle](https://github.com/prajwal1-k/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwal1-k/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/prajwal1-k/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/prajwal1-k/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/prajwal1-k/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prajwal1-k/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -219,6 +221,7 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/prajwal1-k/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/prajwal1-k/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwal1-k/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prajwal1-k/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -335,4 +338,5 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/prajwal1-k/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/prajwal1-k/leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
