@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-         int res = 0;
+        int res = 0;
         int fq[26] = {0};
 
         for (int l = 0, r = 0; r < s.length(); r++) {
