@@ -195,6 +195,7 @@ If you’d like to connect, feel free to reach out via:
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prajwal1-k/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwal1-k/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prajwal1-k/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prajwal1-k/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prajwal1-k/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -270,6 +271,7 @@ If you’d like to connect, feel free to reach out via:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prajwal1-k/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwal1-k/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwal1-k/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prajwal1-k/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -400,6 +402,7 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prajwal1-k/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/prajwal1-k/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
