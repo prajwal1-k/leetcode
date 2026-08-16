@@ -83,6 +83,7 @@ If you’d like to connect, feel free to reach out via:
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwal1-k/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prajwal1-k/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prajwal1-k/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -212,6 +213,7 @@ If you’d like to connect, feel free to reach out via:
 | [0759-set-intersection-size-at-least-two](https://github.com/prajwal1-k/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prajwal1-k/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prajwal1-k/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -248,6 +250,7 @@ If you’d like to connect, feel free to reach out via:
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwal1-k/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prajwal1-k/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prajwal1-k/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -369,6 +372,7 @@ If you’d like to connect, feel free to reach out via:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prajwal1-k/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -380,22 +384,26 @@ If you’d like to connect, feel free to reach out via:
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/prajwal1-k/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/prajwal1-k/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/prajwal1-k/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
