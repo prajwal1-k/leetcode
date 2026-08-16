@@ -104,6 +104,7 @@ If you’d like to connect, feel free to reach out via:
 | [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/prajwal1-k/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/prajwal1-k/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prajwal1-k/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/prajwal1-k/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prajwal1-k/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
@@ -186,6 +187,7 @@ If you’d like to connect, feel free to reach out via:
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prajwal1-k/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prajwal1-k/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prajwal1-k/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
