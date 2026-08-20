@@ -93,6 +93,7 @@ If you’d like to connect, feel free to reach out via:
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prajwal1-k/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prajwal1-k/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwal1-k/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/prajwal1-k/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prajwal1-k/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/prajwal1-k/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -313,6 +314,7 @@ If you’d like to connect, feel free to reach out via:
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prajwal1-k/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/prajwal1-k/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prajwal1-k/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
