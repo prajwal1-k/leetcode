@@ -82,6 +82,7 @@ If you’d like to connect, feel free to reach out via:
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prajwal1-k/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1872-stone-game-viii](https://github.com/prajwal1-k/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwal1-k/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -148,6 +149,7 @@ If you’d like to connect, feel free to reach out via:
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prajwal1-k/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1872-stone-game-viii](https://github.com/prajwal1-k/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prajwal1-k/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prajwal1-k/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -256,6 +258,7 @@ If you’d like to connect, feel free to reach out via:
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/prajwal1-k/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/prajwal1-k/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwal1-k/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -309,6 +312,7 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/prajwal1-k/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2625-increment-submatrices-by-one](https://github.com/prajwal1-k/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prajwal1-k/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -399,6 +403,7 @@ If you’d like to connect, feel free to reach out via:
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/prajwal1-k/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/prajwal1-k/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -406,6 +411,7 @@ If you’d like to connect, feel free to reach out via:
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/prajwal1-k/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/prajwal1-k/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -413,6 +419,7 @@ If you’d like to connect, feel free to reach out via:
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/prajwal1-k/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/prajwal1-k/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/prajwal1-k/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
