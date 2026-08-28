@@ -162,6 +162,7 @@ If you’d like to connect, feel free to reach out via:
 | [0027-remove-element](https://github.com/prajwal1-k/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/prajwal1-k/leetcode/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/prajwal1-k/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prajwal1-k/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prajwal1-k/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -204,6 +205,7 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/prajwal1-k/leetcode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/prajwal1-k/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prajwal1-k/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
