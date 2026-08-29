@@ -92,6 +92,7 @@ If you’d like to connect, feel free to reach out via:
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/prajwal1-k/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/prajwal1-k/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/prajwal1-k/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prajwal1-k/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prajwal1-k/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwal1-k/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prajwal1-k/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -130,6 +131,7 @@ If you’d like to connect, feel free to reach out via:
 | [1288-remove-covered-intervals](https://github.com/prajwal1-k/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prajwal1-k/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prajwal1-k/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -393,6 +395,7 @@ If you’d like to connect, feel free to reach out via:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwal1-k/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prajwal1-k/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
