@@ -86,6 +86,7 @@ If you’d like to connect, feel free to reach out via:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prajwal1-k/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/prajwal1-k/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prajwal1-k/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prajwal1-k/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -233,6 +234,7 @@ If you’d like to connect, feel free to reach out via:
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prajwal1-k/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prajwal1-k/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2029-stone-game-ix](https://github.com/prajwal1-k/leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/prajwal1-k/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prajwal1-k/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/prajwal1-k/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/prajwal1-k/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
