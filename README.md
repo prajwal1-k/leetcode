@@ -108,6 +108,7 @@ If you’d like to connect, feel free to reach out via:
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/prajwal1-k/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/prajwal1-k/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prajwal1-k/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-network-recovery-pathways](https://github.com/prajwal1-k/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/prajwal1-k/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -203,6 +204,7 @@ If you’d like to connect, feel free to reach out via:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prajwal1-k/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prajwal1-k/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prajwal1-k/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/prajwal1-k/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3676-smallest-number-with-all-set-bits](https://github.com/prajwal1-k/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prajwal1-k/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## String
@@ -263,6 +265,7 @@ If you’d like to connect, feel free to reach out via:
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/prajwal1-k/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/prajwal1-k/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/prajwal1-k/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +311,7 @@ If you’d like to connect, feel free to reach out via:
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prajwal1-k/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prajwal1-k/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwal1-k/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/prajwal1-k/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/prajwal1-k/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajwal1-k/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prajwal1-k/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -385,6 +389,7 @@ If you’d like to connect, feel free to reach out via:
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwal1-k/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwal1-k/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/prajwal1-k/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/prajwal1-k/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
