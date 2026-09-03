@@ -117,6 +117,7 @@ If you’d like to connect, feel free to reach out via:
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajwal1-k/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/prajwal1-k/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prajwal1-k/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/prajwal1-k/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +295,7 @@ If you’d like to connect, feel free to reach out via:
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prajwal1-k/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prajwal1-k/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prajwal1-k/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/prajwal1-k/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
