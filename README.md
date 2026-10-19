@@ -171,6 +171,7 @@ If you’d like to connect, feel free to reach out via:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prajwal1-k/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/prajwal1-k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/prajwal1-k/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/prajwal1-k/leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/prajwal1-k/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prajwal1-k/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -218,6 +219,7 @@ If you’d like to connect, feel free to reach out via:
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/prajwal1-k/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/prajwal1-k/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/prajwal1-k/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/prajwal1-k/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prajwal1-k/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
