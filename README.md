@@ -69,6 +69,7 @@ If you’d like to connect, feel free to reach out via:
 | [0136-single-number](https://github.com/prajwal1-k/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/prajwal1-k/leetcode/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwal1-k/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prajwal1-k/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/prajwal1-k/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/prajwal1-k/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/prajwal1-k/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -280,6 +281,7 @@ If you’d like to connect, feel free to reach out via:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prajwal1-k/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/prajwal1-k/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/prajwal1-k/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/prajwal1-k/leetcode/tree/main/1140-stone-game-ii/) | Medium |
