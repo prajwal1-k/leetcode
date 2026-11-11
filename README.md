@@ -222,6 +222,7 @@ If you’d like to connect, feel free to reach out via:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/prajwal1-k/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/prajwal1-k/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/prajwal1-k/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/prajwal1-k/leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -285,6 +286,7 @@ If you’d like to connect, feel free to reach out via:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/prajwal1-k/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prajwal1-k/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/prajwal1-k/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/prajwal1-k/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -320,6 +322,7 @@ If you’d like to connect, feel free to reach out via:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/prajwal1-k/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/prajwal1-k/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prajwal1-k/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prajwal1-k/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
